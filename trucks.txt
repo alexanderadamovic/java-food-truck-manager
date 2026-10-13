@@ -1,0 +1,12 @@
+Taco Terror|Mexican|South Lawn|4.8|Beef Birria Tacos
+Wok On By|Thai|Rotunda|4.2|Pad Kra Pao
+Burger Baron|American|South Lawn|3.9|Double Smash
+Curry Cruiser|Indian|Riverside|4.6|Butter Chicken Bowl
+Falafel Fiesta|Middle Eastern|Rotunda|4.4|Loaded Falafel Wrap
+The Waffle Wagon|American|Riverside|4.1|Belgian Waffle Stack
+Pho Sure|Vietnamese|South Lawn|4.7|Beef Pho Bowl
+Slice Society|Italian|Rotunda|4.3|Wood-Fired Pizza
+Sushi Streets|Japanese|Riverside|4.5|Salmon Poke Bowl
+Bao Down|Chinese|Rotunda|4.0|Pork Belly Bao
+Taste of Athens|Greek|South Lawn|4.4|Lamb Souvlaki
+Kimchi Kings|Korean|Riverside|4.6|Kimchi Fried Rice
